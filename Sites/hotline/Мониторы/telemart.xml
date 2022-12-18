@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+<yml_catalog date="18/12/2022"
+<shop>
+<name>TELEMART</name>
+<url>https://telemart.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Мониторы</category>
+</categories>
+<offers>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>GIGABYTE M28U Gaming Monitor      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>19 999</price>
+        <shop_url>https://hotline.ua/go/price/13328228801/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/gigabyte-m28u-gaming-monitor/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung S27AG500 (LS27AG500)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>13 999</price>
+        <shop_url>https://hotline.ua/go/price/13347183353/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-s27ag500-ls27ag500/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung Odyssey G7 S28AG700 (LS28AG700)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>21 999</price>
+        <shop_url>https://hotline.ua/go/price/13344221722/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/huawei-odyssey-g7-s28ag700-ls28ag700/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>GIGABYTE G27Q      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>12 918</price>
+        <shop_url>https://hotline.ua/go/price/13346673376/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/gigabyte-g27q-gaming/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>GIGABYTE M32U Gaming Monitor      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>33 599</price>
+        <shop_url>https://hotline.ua/go/price/13301406156/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/gigabyte-m32u-gaming-monitor/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>MSI Optix MAG274QRF-QD      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>19 199</price>
+        <shop_url>https://hotline.ua/go/price/13349895087/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/msi-optix-mag274qrf-qd/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung Odyssey G4 S27BG400EI (LS27BG400EIXCI)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>10 999</price>
+        <shop_url>https://hotline.ua/go/price/13346604273/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g4-s27bg400ei-ls27bg400eixci/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS TUF Gaming VG249Q (90LM05E0-B01170)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>8 399</price>
+        <shop_url>https://hotline.ua/go/price/13328228806/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-vg249q-90lm05e0-b01170/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS TUF Gaming VG249Q (90LM05E0-B01170)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>10 599</price>
+        <shop_url>https://hotline.ua/go/price/13344481868/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-vg249q-90lm05e0-b01170/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung C27F390F (LC27F390FHIXCI)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>5 999</price>
+        <shop_url>https://hotline.ua/go/price/13344221739/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-c27f390f-lc27f390fhixci/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS TUF Gaming VG27WQ      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>11 999</price>
+        <shop_url>https://hotline.ua/go/price/13346250686/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-tuf-gaming-vg27wq/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung GAMING Odyssey G7 (LC27G75TQ)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>19 999</price>
+        <shop_url>https://hotline.ua/go/price/13344374051/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-gaming-odyssey-g7-lc27g75tq/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS TUF Gaming VG27AQ (90LM0500-B01370)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>14 199</price>
+        <shop_url>https://hotline.ua/go/price/13329626154/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-vg27aq/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung Odyssey G5 LC27G55T Black (LC27G55TQ)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>10 999</price>
+        <shop_url>https://hotline.ua/go/price/13303369369/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g5-lc27g55t-black-lc27g55tq/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Philips 27M1F5800/00      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>29 375</price>
+        <shop_url>https://hotline.ua/go/price/13344376331/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/philips-27m1f580000/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>GIGABYTE G24F      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>7 999</price>
+        <shop_url>https://hotline.ua/go/price/13344390425/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/gigabyte-g24f/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS ProArt PA279CV (90LM06M1-B01170)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>18 699</price>
+        <shop_url>https://hotline.ua/go/price/13336973512/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-proart-pa279cv-90lm06m1-b01170/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>2E 2E-G2721BV-01.UA      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>9 332</price>
+        <shop_url>https://hotline.ua/go/price/13344376336/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/2e-2e-g2721bv-01ua/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung C24RG50F (LC24RG50F)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>6 999</price>
+        <shop_url>https://hotline.ua/go/price/13285195842/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-c24rg50f-lc24rg50f/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>MSI Optix G241      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>8 699</price>
+        <shop_url>https://hotline.ua/go/price/13348142336/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/msi-optix-g241/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung Odyssey G5 C34G55TW (LC34G55TW)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>15 999</price>
+        <shop_url>https://hotline.ua/go/price/13344221700/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g5-c34g55tw-lc34g55tw/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS ROG Strix XG27AQ (90LM06U0-B01370)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>19 999</price>
+        <shop_url>https://hotline.ua/go/price/13311678887/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-rog-strix-xg27aq-90lm06u0-b01370/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung Odyssey G9 C49G95TS (LC49G95TS)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>39 999</price>
+        <shop_url>https://hotline.ua/go/price/13344481616/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g9-lc49g95tssixci/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Acer EG240YPbipx (UM.QE0EE.P07)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>7 469</price>
+        <shop_url>https://hotline.ua/go/price/13344503942/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/acer-eg240ypbipx-umqe0eep07/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>MSI OPTIX MAG281URV      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>14 499</price>
+        <shop_url>https://hotline.ua/go/price/13344481787/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/msi-optix-mag281urv/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>GIGABYTE G32QC      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>14 283</price>
+        <shop_url>https://hotline.ua/go/price/13344481687/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/gigabyte-g32qc/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung Odyssey G5 LC32G54T Black (LC32G54TQ)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>12 499</price>
+        <shop_url>https://hotline.ua/go/price/13344481711/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g5-lc32g54t-black-lc32g54tq/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>MSI PRO MP243      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>5 499</price>
+        <shop_url>https://hotline.ua/go/price/13344481794/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/msi-pro-mp243/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Dell U3421WE (210-AXQL)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>37 133</price>
+        <shop_url>https://hotline.ua/go/price/13349941415/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/dell-u3421we-210-axql/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>GIGABYTE M34WQ      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>23 899</price>
+        <shop_url>https://hotline.ua/go/price/13346250575/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/gigabyte-m34wq/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung C34H890 (LC34H890WGIXCI)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>15 999</price>
+        <shop_url>https://hotline.ua/go/price/13308114860/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-c34h890-lc34h890wgixci/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Dell UltraSharp U2722D (210-AYUK)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>15 584</price>
+        <shop_url>https://hotline.ua/go/price/13345375932/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/dell-ultrasharp-u2722d-210-ayuk/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>ASUS VG27VQ (90LM0510-B01E70)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>9 499</price>
+        <shop_url>https://hotline.ua/go/price/13348954426/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/asus-vg27vq-90lm0510-b01e70/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Zowie XL2540K Dark Grey (9H.LJMLB.QBE)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>16 999</price>
+        <shop_url>https://hotline.ua/go/price/13330098868/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/zowie-xl2540k-dark-grey-9hljmlbqbe/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>Samsung S32BM801 (LS32BM801)      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>23 999</price>
+        <shop_url>https://hotline.ua/go/price/13344481810/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/samsung-s32bm801-ls32bm801/</url>
+    </offer>
+    <offer>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <name>2E 2E-L2820B-01.UA      </name>
+        <shop_name>TELEMART.UA</shop_name>
+        <price>9 920</price>
+        <shop_url>https://hotline.ua/go/price/13346250701/</shop_url>
+        <url>https://hotline.ua//ua/computer-monitory/2e-2e-l2820b-01ua/</url>
+    </offer>
+</offers>
+</shop>
+</yml_catalog>
+</root>
