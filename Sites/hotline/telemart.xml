@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
 <yml_catalog date="18/12/2022"
 <shop>
 <name>TELEMART</name>
@@ -15,327 +14,191 @@
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <name>GIGABYTE M28U Gaming Monitor      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>19 999</price>
-        <shop_url>https://hotline.ua/go/price/13328228801/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/gigabyte-m28u-gaming-monitor/</url>
+        <shop_name>Gigabyte 28" M28U Gaming Black </shop_name>
+        <price>19999</price>
+        <shop_url>https://telemart.ua/products/gigabyte-28-m28u-gaming-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=gigabyte-28-m28u-gaming-black&utm_campaign=monitors&utm_content=370447</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/gigabyte-m28u-gaming-monitor/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <name>Samsung S27AG500 (LS27AG500)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>13 999</price>
-        <shop_url>https://hotline.ua/go/price/13347183353/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-s27ag500-ls27ag500/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Samsung Odyssey G7 S28AG700 (LS28AG700)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>21 999</price>
-        <shop_url>https://hotline.ua/go/price/13344221722/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/huawei-odyssey-g7-s28ag700-ls28ag700/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>GIGABYTE G27Q      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>12 918</price>
-        <shop_url>https://hotline.ua/go/price/13346673376/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/gigabyte-g27q-gaming/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>GIGABYTE M32U Gaming Monitor      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>33 599</price>
-        <shop_url>https://hotline.ua/go/price/13301406156/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/gigabyte-m32u-gaming-monitor/</url>
+        <shop_name>Samsung 27" Odyssey G5 S27AG500NI (LS27AG500NIXCI) Black </shop_name>
+        <price>13999</price>
+        <shop_url>https://telemart.ua/products/samsung-27-odyssey-g5-s27ag500ni-ls27ag500nixci-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=samsung-27-odyssey-g5-s27ag500ni-ls27ag500nixci-black&utm_campaign=monitors&utm_content=430236</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/samsung-s27ag500-ls27ag500/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <name>MSI Optix MAG274QRF-QD      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>19 199</price>
-        <shop_url>https://hotline.ua/go/price/13349895087/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/msi-optix-mag274qrf-qd/</url>
+        <shop_name>MSI Optix 27" (MAG274QRF-QD) Black </shop_name>
+        <price>19199</price>
+        <shop_url>https://telemart.ua/products/msi-optix-27-mag274qrf-qd-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=msi-optix-27-mag274qrf-qd-black&utm_campaign=monitors&utm_content=331608</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/msi-optix-mag274qrf-qd/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Samsung Odyssey G4 S27BG400EI (LS27BG400EIXCI)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>10 999</price>
-        <shop_url>https://hotline.ua/go/price/13346604273/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g4-s27bg400ei-ls27bg400eixci/</url>
+        <name>GIGABYTE M28U Gaming Monitor      </name>
+        <shop_name>Gigabyte 28" M28U Gaming Black </shop_name>
+        <price>19999</price>
+        <shop_url>https://telemart.ua/products/gigabyte-28-m28u-gaming-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=gigabyte-28-m28u-gaming-black&utm_campaign=monitors&utm_content=370447</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/gigabyte-m28u-gaming-monitor/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>ASUS TUF Gaming VG249Q (90LM05E0-B01170)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>8 399</price>
-        <shop_url>https://hotline.ua/go/price/13328228806/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-vg249q-90lm05e0-b01170/</url>
+        <name>Samsung S27AG500 (LS27AG500)      </name>
+        <shop_name>Samsung 27" Odyssey G5 S27AG500NI (LS27AG500NIXCI) Black </shop_name>
+        <price>13999</price>
+        <shop_url>https://telemart.ua/products/samsung-27-odyssey-g5-s27ag500ni-ls27ag500nixci-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=samsung-27-odyssey-g5-s27ag500ni-ls27ag500nixci-black&utm_campaign=monitors&utm_content=430236</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/samsung-s27ag500-ls27ag500/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>ASUS TUF Gaming VG249Q (90LM05E0-B01170)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>10 599</price>
-        <shop_url>https://hotline.ua/go/price/13344481868/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-vg249q-90lm05e0-b01170/</url>
+        <name>MSI Optix MAG274QRF-QD      </name>
+        <shop_name>MSI Optix 27" (MAG274QRF-QD) Black </shop_name>
+        <price>19199</price>
+        <shop_url>https://telemart.ua/products/msi-optix-27-mag274qrf-qd-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=msi-optix-27-mag274qrf-qd-black&utm_campaign=monitors&utm_content=331608</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/msi-optix-mag274qrf-qd/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <name>Samsung C27F390F (LC27F390FHIXCI)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>5 999</price>
-        <shop_url>https://hotline.ua/go/price/13344221739/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-c27f390f-lc27f390fhixci/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>ASUS TUF Gaming VG27WQ      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>11 999</price>
-        <shop_url>https://hotline.ua/go/price/13346250686/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-tuf-gaming-vg27wq/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Samsung GAMING Odyssey G7 (LC27G75TQ)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>19 999</price>
-        <shop_url>https://hotline.ua/go/price/13344374051/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-gaming-odyssey-g7-lc27g75tq/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>ASUS TUF Gaming VG27AQ (90LM0500-B01370)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>14 199</price>
-        <shop_url>https://hotline.ua/go/price/13329626154/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-vg27aq/</url>
+        <shop_name>Samsung 27" Curved (LC27F390FHIXCI) Black </shop_name>
+        <price>5999</price>
+        <shop_url>https://telemart.ua/products/samsung-27-c27f390f-lc27f390fhixci-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=samsung-27-c27f390f-lc27f390fhixci-black&utm_campaign=monitors&utm_content=76678</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/samsung-c27f390f-lc27f390fhixci/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <name>Samsung Odyssey G5 LC27G55T Black (LC27G55TQ)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>10 999</price>
-        <shop_url>https://hotline.ua/go/price/13303369369/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g5-lc27g55t-black-lc27g55tq/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Philips 27M1F5800/00      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>29 375</price>
-        <shop_url>https://hotline.ua/go/price/13344376331/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/philips-27m1f580000/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>GIGABYTE G24F      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>7 999</price>
-        <shop_url>https://hotline.ua/go/price/13344390425/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/gigabyte-g24f/</url>
+        <shop_name>Samsung 27" Odyssey G5 C27G55TQWI (LC27G55TQWIXCI) Black </shop_name>
+        <price>10999</price>
+        <shop_url>https://telemart.ua/products/samsung-27-odyssey-g5-c27g55tqwi-lc27g55tqwixci-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=samsung-27-odyssey-g5-c27g55tqwi-lc27g55tqwixci-black&utm_campaign=monitors&utm_content=304384</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/samsung-odyssey-g5-lc27g55t-black-lc27g55tq/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <name>ASUS ProArt PA279CV (90LM06M1-B01170)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>18 699</price>
-        <shop_url>https://hotline.ua/go/price/13336973512/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-proart-pa279cv-90lm06m1-b01170/</url>
+        <shop_name>Asus 27" ProArt Display PA279CV Black/Silver </shop_name>
+        <price>18699</price>
+        <shop_url>https://telemart.ua/products/asus-27-proart-display-pa279cv-blacksilver/?utm_source=hotline&utm_medium=marketplaces&utm_term=asus-27-proart-display-pa279cv-blacksilver&utm_campaign=monitors&utm_content=337512</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/asus-proart-pa279cv-90lm06m1-b01170/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>2E 2E-G2721BV-01.UA      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>9 332</price>
-        <shop_url>https://hotline.ua/go/price/13344376336/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/2e-2e-g2721bv-01ua/</url>
+        <name>Dell S2721HN (210-AXKV)      </name>
+        <shop_name>Dell 27" S2721HN (210-AXKV) Silver </shop_name>
+        <price>7215</price>
+        <shop_url>https://telemart.ua/products/dell-27-s2721hn-210-axkv-silver/?utm_source=hotline&utm_medium=marketplaces&utm_term=dell-27-s2721hn-210-axkv-silver&utm_campaign=monitors&utm_content=307304</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/dell-s2721hn-210-axkv/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Samsung C24RG50F (LC24RG50F)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>6 999</price>
-        <shop_url>https://hotline.ua/go/price/13285195842/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-c24rg50f-lc24rg50f/</url>
+        <name>Acer VG252QSbmiipx (UM.KV2EE.S01)      </name>
+        <shop_name>Acer 24.5" VG252QS (UM.KV2EE.S01) Black/Red </shop_name>
+        <price>9129</price>
+        <shop_url>https://telemart.ua/products/acer-245-vg252q-s-umkv2ees01-blackred/?utm_source=hotline&utm_medium=marketplaces&utm_term=acer-245-vg252q-s-umkv2ees01-blackred&utm_campaign=monitors&utm_content=450690</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/acer-vg252qsbmiipx-umkv2ees01/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>MSI Optix G241      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>8 699</price>
-        <shop_url>https://hotline.ua/go/price/13348142336/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/msi-optix-g241/</url>
+        <name>Philips 24M1N3200VS/00, 24M1N3200VS/01      </name>
+        <shop_name>Philips 23.8" 24M1N3200VS Black </shop_name>
+        <price>7031</price>
+        <shop_url>https://telemart.ua/products/philips-238-24m1n3200vs-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=philips-238-24m1n3200vs-black&utm_campaign=monitors&utm_content=431473</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/nec-24m1n3200vs00-24m1n3200vs01/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Samsung Odyssey G5 C34G55TW (LC34G55TW)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>15 999</price>
-        <shop_url>https://hotline.ua/go/price/13344221700/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g5-c34g55tw-lc34g55tw/</url>
+        <name>Samsung Odyssey G30A (LS24AG300)      </name>
+        <shop_name>Samsung 24" Odyssey G3 S24AG300NI (LS24AG300NIXCI) Black </shop_name>
+        <price>7999</price>
+        <shop_url>https://telemart.ua/products/samsung-24-odyssey-g3-s24ag300ni-ls24ag300nixci-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=samsung-24-odyssey-g3-s24ag300ni-ls24ag300nixci-black&utm_campaign=monitors&utm_content=430819</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/samsung-odyssey-g30a-ls24ag300/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>ASUS ROG Strix XG27AQ (90LM06U0-B01370)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>19 999</price>
-        <shop_url>https://hotline.ua/go/price/13311678887/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-rog-strix-xg27aq-90lm06u0-b01370/</url>
+        <name>AOC C32G2ZE      </name>
+        <shop_name>AOC 31.5" C32G2ZE/BK Black/Red </shop_name>
+        <price>11309</price>
+        <shop_url>https://telemart.ua/products/aoc-315-c32g2zebk-blackred/?utm_source=hotline&utm_medium=marketplaces&utm_term=aoc-315-c32g2zebk-blackred&utm_campaign=monitors&utm_content=355886</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/aoc-c32g2ze/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Samsung Odyssey G9 C49G95TS (LC49G95TS)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>39 999</price>
-        <shop_url>https://hotline.ua/go/price/13344481616/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g9-lc49g95tssixci/</url>
+        <name>Lenovo L32p-30 (66C9UAC1UA)      </name>
+        <shop_name>Lenovo 31.5" L32p-30 (66C9UAC1UA) Black </shop_name>
+        <price>16661</price>
+        <shop_url>https://telemart.ua/products/lenovo-315-l32p-30-66c9uac1ua-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=lenovo-315-l32p-30-66c9uac1ua-black&utm_campaign=monitors&utm_content=444551</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/lenovo-l32p-30-66c9uac1ua/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Acer EG240YPbipx (UM.QE0EE.P07)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>7 469</price>
-        <shop_url>https://hotline.ua/go/price/13344503942/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/acer-eg240ypbipx-umqe0eep07/</url>
+        <name>Samsung Odyssey G3 F27G35TFW (LF27G35TF)      </name>
+        <shop_name>Samsung 27" Odyssey G3 F27G35TFW (LF27G35TFWIXCI) Black </shop_name>
+        <price>8699</price>
+        <shop_url>https://telemart.ua/products/samsung-27-odyssey-g3-f27g35tfw-lf27g35tfwixci-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=samsung-27-odyssey-g3-f27g35tfw-lf27g35tfwixci-black&utm_campaign=monitors&utm_content=349902</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/samsung-odyssey-g3-f27g35tfw-lf27g35tf/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>MSI OPTIX MAG281URV      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>14 499</price>
-        <shop_url>https://hotline.ua/go/price/13344481787/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/msi-optix-mag281urv/</url>
+        <name>Acer Nitro VG252QXBMIIPX (UM.KV2EE.X01)      </name>
+        <shop_name>Acer 24.5" Nitro VG252QXBMIIPX (UM.KV2EE.X01) Black/Red </shop_name>
+        <price>11219</price>
+        <shop_url>https://telemart.ua/products/acer-245-nitro-vg252qxbmiipx-umkv2eex01-blackred/?utm_source=hotline&utm_medium=marketplaces&utm_term=acer-245-nitro-vg252qxbmiipx-umkv2eex01-blackred&utm_campaign=monitors&utm_content=251194</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/acer-nitro-vg252qxbmiipx-umkv2eex01/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>GIGABYTE G32QC      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>14 283</price>
-        <shop_url>https://hotline.ua/go/price/13344481687/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/gigabyte-g32qc/</url>
+        <name>Philips 241E2FD/00, 241E2FD/01      </name>
+        <shop_name>Philips 23.8" 241E2FD Black </shop_name>
+        <price>6097</price>
+        <shop_url>https://telemart.ua/products/philips-238-241e2fd-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=philips-238-241e2fd-black&utm_campaign=monitors&utm_content=382701</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/philips-241e2fd01-241e2fd00/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Samsung Odyssey G5 LC32G54T Black (LC32G54TQ)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>12 499</price>
-        <shop_url>https://hotline.ua/go/price/13344481711/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-odyssey-g5-lc32g54t-black-lc32g54tq/</url>
+        <name>Acer RG321QUPbiipx (UM.JR1EE.P01)      </name>
+        <shop_name>Acer 31.5" RG321QUP (UM.JR1EE.P01) Black </shop_name>
+        <price>17271</price>
+        <shop_url>https://telemart.ua/products/acer-315-rg321qup-umjr1eep01-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=acer-315-rg321qup-umjr1eep01-black&utm_campaign=monitors&utm_content=450720</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/acer-rg321qupbiipx-umjr1eep01/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>MSI PRO MP243      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>5 499</price>
-        <shop_url>https://hotline.ua/go/price/13344481794/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/msi-pro-mp243/</url>
+        <name>ASUS VZ24EHE (90LM07C3-B01470)      </name>
+        <shop_name>Asus 23.8" VZ24EHE (90LM07C3-B01470) Black </shop_name>
+        <price>5599</price>
+        <shop_url>https://telemart.ua/products/asus-238-vz24ehe-90lm07c3-b01470-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=asus-238-vz24ehe-90lm07c3-b01470-black&utm_campaign=monitors&utm_content=409646</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/asus-vz24ehe-90lm07c3-b01470/</url>
     </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <name>Dell U3421WE (210-AXQL)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>37 133</price>
-        <shop_url>https://hotline.ua/go/price/13349941415/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/dell-u3421we-210-axql/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>GIGABYTE M34WQ      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>23 899</price>
-        <shop_url>https://hotline.ua/go/price/13346250575/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/gigabyte-m34wq/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Samsung C34H890 (LC34H890WGIXCI)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>15 999</price>
-        <shop_url>https://hotline.ua/go/price/13308114860/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-c34h890-lc34h890wgixci/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Dell UltraSharp U2722D (210-AYUK)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>15 584</price>
-        <shop_url>https://hotline.ua/go/price/13345375932/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/dell-ultrasharp-u2722d-210-ayuk/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>ASUS VG27VQ (90LM0510-B01E70)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>9 499</price>
-        <shop_url>https://hotline.ua/go/price/13348954426/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/asus-vg27vq-90lm0510-b01e70/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Zowie XL2540K Dark Grey (9H.LJMLB.QBE)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>16 999</price>
-        <shop_url>https://hotline.ua/go/price/13330098868/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/zowie-xl2540k-dark-grey-9hljmlbqbe/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>Samsung S32BM801 (LS32BM801)      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>23 999</price>
-        <shop_url>https://hotline.ua/go/price/13344481810/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/samsung-s32bm801-ls32bm801/</url>
-    </offer>
-    <offer>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <name>2E 2E-L2820B-01.UA      </name>
-        <shop_name>TELEMART.UA</shop_name>
-        <price>9 920</price>
-        <shop_url>https://hotline.ua/go/price/13346250701/</shop_url>
-        <url>https://hotline.ua//ua/computer-monitory/2e-2e-l2820b-01ua/</url>
+        <name>Philips 24M1N3200VA/00, 24M1N3200VA/01      </name>
+        <shop_name>Philips 23.8" 24M1N3200VA/00 Black </shop_name>
+        <price>7961</price>
+        <shop_url>https://telemart.ua/products/philips-238-24m1n3200va00-black/?utm_source=hotline&utm_medium=marketplaces&utm_term=philips-238-24m1n3200va00-black&utm_campaign=monitors&utm_content=444522</shop_url>
+        <url>https://hotline.ua/ua/computer-monitory/philips-24m1n3200va00-24m1n3200va01/</url>
     </offer>
 </offers>
 </shop>
 </yml_catalog>
-</root>
