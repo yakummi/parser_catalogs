@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<yml_catalog date="18/12/2022">
+<shop>
+<name>foxtrot</name>
+<url>https://www.foxtrot.com.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Мониторы</category>
+</categories>
+<offers>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор GIGABYTE M28U Gaming Monitor</name>
+    <shop_name>Xiaomi Монітор Xiaomi Mi 2K Gaming Monitor 27 (BHR5039GL)</shop_name>
+    <price>27607</price>
+    <shop_url>https://www.foxtrot.com.ua/uk/shop/monitor_gigabyte_m28u_m28u_gaming_monitor_m28u.html?utm_medium=cpc&utm_source=hotline&utm_campaign=IT-gk_monitory&utm_term=monitor_gigabyte_m28u_m28u_gaming_monitor_m28u&utm_content=6740043</shop_url>
+    <url>https://hotline.ua/computer-monitory/gigabyte-m28u-gaming-monitor/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор GIGABYTE G27F 2 Gaming Monitor</name>
+    <shop_name>GIGABYTE Монітор GIGABYTE G27F 2 Gaming Monitor</shop_name>
+    <price>12139</price>
+    <shop_url>https://www.foxtrot.com.ua/uk/shop/monitoriy_gigabyte_g27f_2gaming.html?utm_medium=cpc&utm_source=hotline&utm_campaign=IT-gk_monitory&utm_term=monitoriy_gigabyte_g27f_2gaming&utm_content=6848479</shop_url>
+    <url>https://hotline.ua/computer-monitory/gigabyte-g27f-2-gaming-monitor/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор Samsung C27F390F (LC27F390FHIXCI)</name>
+    <shop_name>SAMSUNG Монітор SAMSUNG LC27F390FHIX (LC27F390FHIXCI)</shop_name>
+    <price>5999</price>
+    <shop_url>https://www.foxtrot.com.ua/uk/shop/gk-monitory_samsung_27--c27f390fhix-lc27f390fhixci-16-9-hdmi-curved.html?utm_medium=cpc&utm_source=hotline&utm_campaign=IT-gk_monitory&utm_term=gk-monitory_samsung_27--c27f390fhix-lc27f390fhixci-16-9-hdmi-curved&utm_content=6282110</shop_url>
+    <url>https://hotline.ua/computer-monitory/samsung-c27f390f-lc27f390fhixci/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор ASUS ROG STRIX XG258Q (90LM03U0-B01370)</name>
+    <shop_name>ASUS Монітор ASUS XG258Q</shop_name>
+    <price>18399</price>
+    <shop_url>https://www.foxtrot.com.ua/uk/shop/gk-monitory_asus_24-5--xg258q-tn-1920x1080-1ms-hdmi-dp-240gc-vesa.html?utm_medium=cpc&utm_source=hotline&utm_campaign=IT-gk_monitory&utm_term=gk-monitory_asus_24-5--xg258q-tn-1920x1080-1ms-hdmi-dp-240gc-vesa&utm_content=6370404</shop_url>
+    <url>https://hotline.ua/computer-monitory/asus-rog-strix-xg258q/</url>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

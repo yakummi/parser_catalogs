@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<yml_catalog date="18/12/2022">
+<shop>
+<name>COMFY</name>
+<url>https://comfy.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="4">Мониторы</category>
+</categories>
+<offers>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>GIGABYTE M28U Gaming Monitor      </name>
+    <shop_name>GIGABYTE M28U </shop_name>
+    <price>27199</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-gigabyte-m28u.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=GIGABYTE+M28U+Gaming+Monitor&amp;utm_content=2444203</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/gigabyte-m28u-gaming-monitor/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Xiaomi Mi Desktop Monitor 27 (BHR4975EU, RMMNT27NF)      </name>
+    <shop_name>Xiaomi Mi Desktop Monitor 27 (BHR4975EU) </shop_name>
+    <price>6399</price>
+    <shop_url>https://comfy.ua/ua/monitor-xiaomi-mi-desktop-monitor-27-bhr4975eu.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Xiaomi+Mi+Desktop+Monitor+27+%28BHR4975EU%2C+RMMNT27NF%29&amp;utm_content=3356433</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/xiaomi-mi-desktop-monitor-27-bhr4975eu-rmmnt27nf/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Xiaomi Mi Curved Gaming Monitor 34&quot; (BHR4269GL, XMMNTWQ34, BHR5133G)      </name>
+    <shop_name>Xiaomi Mi Display 34 </shop_name>
+    <price>15999</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-xiaomi-mi-display-34.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Xiaomi+Mi+Curved+Gaming+Monitor+34%22+%28BHR4269GL%2C+XMMNTWQ34%2C+BHR5133G%29&amp;utm_content=1222203</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/xiaomi-mi-curved-gaming-monitor-34-bhr4269gl-xmmntwq34/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>GIGABYTE M32U Gaming Monitor      </name>
+    <shop_name>Gigabyte M32U Gaming Monitor </shop_name>
+    <price>33599</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-gigabyte-m32u-gaming-monitor.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=GIGABYTE+M32U+Gaming+Monitor&amp;utm_content=2961153</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/gigabyte-m32u-gaming-monitor/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS TUF Gaming VG27AQ (90LM0500-B01370)      </name>
+    <shop_name>ASUS VG27AQ (90LM0500-B01370) </shop_name>
+    <price>14599</price>
+    <shop_url>https://comfy.ua/ua/monitor-asus-vg27aq.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=ASUS+TUF+Gaming+VG27AQ+%2890LM0500-B01370%29&amp;utm_content=767243</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/asus-vg27aq/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS TUF Gaming VG27AQ (90LM0500-B01370)      </name>
+    <shop_name>ASUS VG27AQ (90LM0500-B01370) </shop_name>
+    <price>14599</price>
+    <shop_url>https://comfy.ua/ua/monitor-asus-vg27aq.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=ASUS+TUF+Gaming+VG27AQ+%2890LM0500-B01370%29&amp;utm_content=767243</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/asus-vg27aq/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS TUF Gaming VG27AQ (90LM0500-B01370)      </name>
+    <shop_name>ASUS VG27AQ (90LM0500-B01370) </shop_name>
+    <price>14599</price>
+    <shop_url>https://comfy.ua/ua/monitor-asus-vg27aq.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=ASUS+TUF+Gaming+VG27AQ+%2890LM0500-B01370%29&amp;utm_content=767243</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/asus-vg27aq/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Philips 27M1F5800/00      </name>
+    <shop_name>Philips 27M1F5800/00 </shop_name>
+    <price>29885</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-philips-27m1f5800-00.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Philips+27M1F5800%2F00&amp;utm_content=6510523</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/philips-27m1f580000/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>GIGABYTE G24F      </name>
+    <shop_name>Gigabyte G24F 2 Gaming (G24F 2 Gaming) </shop_name>
+    <price>9545</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-gigabyte-g24f-2-gaming.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=GIGABYTE+G24F&amp;utm_content=6764553</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/gigabyte-g24f/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Samsung C24RG50F (LC24RG50F)      </name>
+    <shop_name>Samsung C24RG50FZIX (LC24RG50FZIXCI) </shop_name>
+    <price>6999</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-samsung-c24rg50fzix-lc24rg50fzixci.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Samsung+C24RG50F+%28LC24RG50F%29&amp;utm_content=3282043</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/samsung-c24rg50f-lc24rg50f/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Samsung Odyssey Neo G9 (LS49AG950)      </name>
+    <shop_name>Samsung Odyssey Neo G9 (LS49AG950NIXCI) </shop_name>
+    <price>49999</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-samsung-odyssey-neo-g9-ls49ag950nixci.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Samsung+Odyssey+Neo+G9+%28LS49AG950%29&amp;utm_content=3267683</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/samsung-odyssey-neo-g9-ls49ag950nixci/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS ROG Strix XG27AQ (90LM06U0-B01370)      </name>
+    <shop_name>Asus ROG Strix XG27AQ (90LM06U0-B01370) </shop_name>
+    <price>19999</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-asus-rog-strix-xg27aq.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=ASUS+ROG+Strix+XG27AQ+%2890LM06U0-B01370%29&amp;utm_content=2092853</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/asus-rog-strix-xg27aq-90lm06u0-b01370/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Acer EG240YPbipx (UM.QE0EE.P07)      </name>
+    <shop_name>Acer EG240YPbipx (UM.QE0EE.P07) </shop_name>
+    <price>7469</price>
+    <shop_url>https://comfy.ua/ua/monitor-acer-eg240ypbipx-um-qe0ee-p07.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Acer+EG240YPbipx+%28UM.QE0EE.P07%29&amp;utm_content=6839033</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/acer-eg240ypbipx-umqe0eep07/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Samsung Odyssey G5 LC32G54T Black (LC32G54TQ)      </name>
+    <shop_name>Samsung Odyssey G5 (LC32G54TQWIXCI) </shop_name>
+    <price>12499</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-samsung-odyssey-g5-lc32g54tqwixci.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Samsung+Odyssey+G5+LC32G54T+Black+%28LC32G54TQ%29&amp;utm_content=3190543</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/samsung-odyssey-g5-lc32g54t-black-lc32g54tq/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>MSI PRO MP243      </name>
+    <shop_name>MSI PRO MP243 </shop_name>
+    <price>5499</price>
+    <shop_url>https://comfy.ua/ua/monitor-msi-pro-mp243.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=MSI+PRO+MP243&amp;utm_content=6529333</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/msi-pro-mp243/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>2E 2E-L2820B-01.UA      </name>
+    <shop_name>2E L2820B (2E-L2820B-01.UA) </shop_name>
+    <price>9999</price>
+    <shop_url>https://comfy.ua/ua/monitor-2e-l2820b.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=2E+2E-L2820B-01.UA&amp;utm_content=3743353</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/2e-2e-l2820b-01ua/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS VG27VQ (90LM0510-B01E70)      </name>
+    <shop_name>ASUS VG27VQ (90LM0510-B01E70) </shop_name>
+    <price>9399</price>
+    <shop_url>https://comfy.ua/ua/monitor-asus-vg27vq.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=ASUS+VG27VQ+%2890LM0510-B01E70%29&amp;utm_content=768923</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/asus-vg27vq-90lm0510-b01e70/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Philips 243V7QDSB/00, 243V7QDSB/01      </name>
+    <shop_name>Philips 243V7QDSB/00/01 Black </shop_name>
+    <price>5399</price>
+    <shop_url>https://comfy.ua/ua/monitor-philips-243v7qdsb-00-black.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=Philips+243V7QDSB%2F00%2C+243V7QDSB%2F01&amp;utm_content=87590</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/philips-243v7qdsb00/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS ROG Swift PG279QM (90LM0235-B01370)      </name>
+    <shop_name>Asus PG279QM (90LM0235-B01370) </shop_name>
+    <price>42999</price>
+    <shop_url>https://comfy.ua/ua/monitor-igrovoj-asus-pg279qm.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=ASUS+ROG+Swift+PG279QM+%2890LM0235-B01370%29&amp;utm_content=3931373</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/asus-rog-swift-pg279qm-90lm0235-b01370/</url>
+  </offer>
+  <offer>
+    <categoryId>4</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>BenQ SW240 (9H.LH2LB.QBE, 9H.LH2LB.QPE)      </name>
+    <shop_name>BenQ SW240 Grey (9H.LH2LB.QBE) </shop_name>
+    <price>18209</price>
+    <shop_url>https://comfy.ua/ua/monitor-benq-sw240-grey.html?utm_medium=cpc&amp;utm_source=hotline&amp;utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&amp;utm_term=BenQ+SW240+%289H.LH2LB.QBE%2C+9H.LH2LB.QPE%29&amp;utm_content=336513</shop_url>
+    <url>https://hotline.ua/ua/computer-monitory/benq-sw240-9hlh2lbqbe/</url>
+  </offer>
+</offers>
+</shop>
+</yml_catalog>

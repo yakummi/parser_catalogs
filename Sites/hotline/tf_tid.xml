@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<yml_catalog date="18/12/2022">
+<shop>
+<name>Tid</name>
+<url>https://tid.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Мониторы</category>
+</categories>
+<offers>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Монитор Xiaomi Mi 2K Gaming Monitor 27" (BHR5039GL, XMMNT27HQ)</name>
+    <shop_name>Xiaomi Монітор Xiaomi Mi 2K Gaming Monitor 27 (BHR5039GL)</shop_name>
+    <price>14499</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/montor-xiaomi-mi-2k-gaming-monitor-27-bhr5039gl/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=Xiaomi+Mi+2K+Gaming+Monitor+27%22+%28BHR5039GL%2C+XMMNT27HQ%29&utm_content=641974</shop_url>
+    <url>https://hotline.ua/computer-monitory/xiaomi-mi-2k-gaming-monitor-27/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Монитор ASUS TUF Gaming VG27AQ (90LM0500-B01370)</name>
+    <shop_name>ASUS Монитор ASUS VG27AQ</shop_name>
+    <price>14599</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/monitor-asus-vg27aq/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=ASUS+TUF+Gaming+VG27AQ+%2890LM0500-B01370%29&utm_content=442919</shop_url>
+    <url>https://hotline.ua/computer-monitory/asus-vg27aq/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Монитор LG 29WP60G-B </name>
+    <shop_name>LG Монітор LG 29WP60G-B</shop_name>
+    <price>7999</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/montor-lg-29wp60g-b/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=LG+29WP60G-B&utm_content=626176</shop_url>
+    <url>https://hotline.ua/computer-monitory/lg-29wp60g-b/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Монитор QUBE Overlord C34UQ144</name>
+    <shop_name>QUBE Монитор Qube Overlord C34UQ144</shop_name>
+    <price>7999</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/monitor-qube-overlord-c34uq144/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=QUBE+Overlord+C34UQ144&utm_content=523820</shop_url>
+    <url>https://hotline.ua/computer-monitory/qube-overlord-c34uq144/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор ASUS ROG Strix XG17AHP</name>
+    <shop_name>ASUS Монитор ASUS Portable XG17AHP</shop_name>
+    <price>30999</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/monitor-asus-portable-xg17ahp/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=ASUS+ROG+Strix+XG17AHP&utm_content=537254</shop_url>
+    <url>https://hotline.ua/computer-monitory/asus-rog-strix-xg17ahp/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор MSI Optix G241</name>
+    <shop_name>MSI Монитор MSI OPTIX G241</shop_name>
+    <price>8699</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/monitor-msi-optix-g241/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=MSI+Optix+G241&utm_content=536268</shop_url>
+    <url>https://hotline.ua/computer-monitory/msi-optix-g241/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор Samsung C34H890 (LC34H890WGIXCI)</name>
+    <shop_name>Samsung Монитор Samsung C34H890 (LC34H890WGIXCI)</shop_name>
+    <price>15999</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/monitor-samsung-c34h890-lc34h890wgixci/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=Samsung+C34H890+%28LC34H890WGIXCI%29&utm_content=528839</shop_url>
+    <url>https://hotline.ua/computer-monitory/samsung-c34h890-lc34h890wgixci/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Монитор Lenovo ThinkVision E27q-20 (62D0GAT1)</name>
+    <shop_name>Lenovo Монітор Lenovo E27q-20 (62D0GAT1UA)</shop_name>
+    <price>9361</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/montor-lenovo-e27q-20-62d0gat1ua/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=Lenovo+ThinkVision+E27q-20+%2862D0GAT1%29&utm_content=598839</shop_url>
+    <url>https://hotline.ua/computer-monitory/lenovo-thinkvision-e27q-20-62d0gat1/</url>
+</offer>
+<offer>
+    <categoryId>1</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ЖК монитор Acer EK240YCbi (UM.QE0EE.C02)</name>
+    <shop_name>Acer Монітор Acer EK240YCbi (UM.QE0EE.C02)</shop_name>
+    <price>4909</price>
+    <shop_url>https://tid.ua/periferiya-orgtehnika/monitory-i-aksessuary/monitory/montor-acer-ek240ycbi-um.qe0ee.c02/?utm_medium=cpc&utm_source=hotline&utm_campaign=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B&utm_term=Acer+EK240YCbi+%28UM.QE0EE.C02%29&utm_content=632782</shop_url>
+    <url>https://hotline.ua/computer-monitory/acer-ek240ycbi-umqe0eec02/</url>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

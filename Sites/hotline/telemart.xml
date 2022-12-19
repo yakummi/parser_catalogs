@@ -8,8 +8,180 @@
 </currencies>
 <categories>
 <category id="1">Мониторы</category>
+<category id="2">Мыши, клавиатуры</category>
 </categories>
 <offers>
+<offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Logitech G305 Lightspeed Black (910-005282, 910-005280)      </name>
+    <shop_name>Logitech G305 Lightspeed (910-005282) Black </shop_name>
+    <price>2499</price>
+    <shop_url>https://telemart.ua/products/logitech-g305-lightspeed-wireless-910-005282-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=logitech-g305-lightspeed-wireless-910-005282-black&amp;utm_campaign=mouse&amp;utm_content=94304</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/lenovo-g305-lightspeed-black-910-005282/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Hator Starfall Outemu Red (HTK-608)      </name>
+    <shop_name>HATOR Starfall Outemu Red (HTK-608) Black </shop_name>
+    <price>1459</price>
+    <shop_url>https://telemart.ua/products/hator-starfall-outemu-red-htk-608-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=hator-starfall-outemu-red-htk-608-black&amp;utm_campaign=keyboards&amp;utm_content=347116</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/hator-starfall-outemu-red-htk-608/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Logitech G Pro X Superlight Wireless White (910-005942)      </name>
+    <shop_name>Logitech G Pro X SUPERLIGHT (910-005942) White </shop_name>
+    <price>4999</price>
+    <shop_url>https://telemart.ua/products/logitech-g-pro-x-superlight-910-005942-white/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=logitech-g-pro-x-superlight-910-005942-white&amp;utm_campaign=mouse&amp;utm_content=343952</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/logitech-g-pro-x-superlight-wireless-white-910-005942/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Razer Basilisk X HyperSpeed (RZ01-03150100-R3G1)      </name>
+    <shop_name>Razer Basilisk X HyperSpeed (RZ01-03150100-R3G1) Black </shop_name>
+    <price>2299</price>
+    <shop_url>https://telemart.ua/products/razer-basilisk-x-hyperspeed-rz01-03150100-r3g1-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=razer-basilisk-x-hyperspeed-rz01-03150100-r3g1-black&amp;utm_campaign=mouse&amp;utm_content=238519</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/razer-basilisk-x-hyperspeed-rz01-03150100-r3g1/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>SteelSeries Apex 5 (64532)      </name>
+    <shop_name>SteelSeries Apex 5 Hybrid Mechanical RGB Switch (64532) Black </shop_name>
+    <price>5999</price>
+    <shop_url>https://telemart.ua/products/steelseries-apex-5-hybrid-mechanical-rgb-switch-64532-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=steelseries-apex-5-hybrid-mechanical-rgb-switch-64532-black&amp;utm_campaign=keyboards&amp;utm_content=242099</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/steelseries-apex-5-64532/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Razer Viper V2 Pro Wireless Black (RZ01-04390100-R3G1)      </name>
+    <shop_name>Razer Viper V2 Pro (RZ01-04390100-R3G1) Black </shop_name>
+    <price>4999</price>
+    <shop_url>https://telemart.ua/products/razer-viper-v2-pro-rz01-04390100-r3g1-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=razer-viper-v2-pro-rz01-04390100-r3g1-black&amp;utm_campaign=mouse&amp;utm_content=443328</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/razer-viper-v2-pro-wireless-black-rz01-04390100-r3g1/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>ASUS TUF Gaming M3 Grey (90MP01J0-B0UA00)      </name>
+    <shop_name>Asus TUF Gaming M3 (90MP01J0-B0UA00) Black </shop_name>
+    <price>999</price>
+    <shop_url>https://telemart.ua/products/asus-tuf-gaming-m3-90mp01j0-b0ua00-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=asus-tuf-gaming-m3-90mp01j0-b0ua00-black&amp;utm_campaign=mouse&amp;utm_content=199093</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/a4tech-tuf-gaming-m3-grey-90mp01j0-b0ua00/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>SteelSeries Rival 3 Wireless Black (62521)      </name>
+    <shop_name>SteelSeries Rival 3 Wireless (62521) Black </shop_name>
+    <price>1999</price>
+    <shop_url>https://telemart.ua/products/steelseries-rival-3-wireless-62521-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=steelseries-rival-3-wireless-62521-black&amp;utm_campaign=mouse&amp;utm_content=313554</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/steelseries-rival-3-wireless-black-62521/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Razer Ornata V2 - Russian Layout (RZ03-03380700-R3R1)      </name>
+    <shop_name>Razer Ornata V2 RGB Mecha-Membrane (RZ03-03380700-R3R1) Black </shop_name>
+    <price>2699</price>
+    <shop_url>https://telemart.ua/products/razer-ornata-v2-rgb-mecha-membrane-rz03-03380700-r3r1-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=razer-ornata-v2-rgb-mecha-membrane-rz03-03380700-r3r1-black&amp;utm_campaign=keyboards&amp;utm_content=322271</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/razer-ornata-v2-russian-layout-rz03-03380700-r3r1/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>HyperX Alloy Core RGB Gaming Keyboard USB Black (HX-KB5ME2-RU, 4P4F5AX)      </name>
+    <shop_name>HyperX Alloy Core RGB (HX-KB5ME2-RU/4P4F5AX) Black </shop_name>
+    <price>2349</price>
+    <shop_url>https://telemart.ua/products/kingston-hyperx-alloy-core-rgb-hx-kb5me2-ru-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=kingston-hyperx-alloy-core-rgb-hx-kb5me2-ru-black&amp;utm_campaign=keyboards&amp;utm_content=97335</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/kingston-hyperx-alloy-core-rgb-gaming-keyboard-usb-black-hx-kb5me2-ru/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Dark Project KD83A PBT Mechanical G3ms Sapphire Blue/White (DP-KD-83A-004500-GMT)      </name>
+    <shop_name>Dark Project KD83A PBT Mechanical G3ms Sapphire (DP-KD-83A-004500-GMT) Blue/White </shop_name>
+    <price>3777</price>
+    <shop_url>https://telemart.ua/products/dark-project-kd83a-pbt-mechanical-g3ms-sapphire-dp-kd-83a-004500-gmt-bluewhite/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=dark-project-kd83a-pbt-mechanical-g3ms-sapphire-dp-kd-83a-004500-gmt-bluewhite&amp;utm_campaign=keyboards&amp;utm_content=455830</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/dark-project-kd83a-pbt-mechanical-g3ms-sapphire-bluewhite-dp-kd-83a-004500-gmt/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Razer DeathAdder V2 (RZ01-03210100-R3M1)      </name>
+    <shop_name>Razer Deathadder V2 (RZ01-03210100-R3M1) Black </shop_name>
+    <price>2499</price>
+    <shop_url>https://telemart.ua/products/razer-deathadder-v2-rz01-03210100-r3m1-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=razer-deathadder-v2-rz01-03210100-r3m1-black&amp;utm_campaign=mouse&amp;utm_content=236679</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/razer-deathadder-v2-rz01-03210100-r3m1/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Dark Project Pro KD87A PBT Gateron Mechanical Teal (DP-KD-87A-004100-GTC)      </name>
+    <shop_name>Dark Project Pro KD87A PBT Gateron Mechanical Teal (DP-KD-87A-004100-GTC) Black </shop_name>
+    <price>3399</price>
+    <shop_url>https://telemart.ua/products/dark-project-pro-kd87a-pbt-gateron-mechanical-tea-dp-kd-87a-004100-gtc-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=dark-project-pro-kd87a-pbt-gateron-mechanical-tea-dp-kd-87a-004100-gtc-black&amp;utm_campaign=keyboards&amp;utm_content=392414</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/dark-project-pro-kd87a-pbt-gateron-mechanical-teal-dp-kd-87a-004100-gtc/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Logitech G502 X PLUS Black (910-006162)      </name>
+    <shop_name>Logitech G502 X Plus Wireless RGB (910-006162) Black </shop_name>
+    <price>5999</price>
+    <shop_url>https://telemart.ua/products/logitech-g502-x-plus-wireless-rgb-910-006162-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=logitech-g502-x-plus-wireless-rgb-910-006162-black&amp;utm_campaign=mouse&amp;utm_content=434494</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/logitech-g502-x-plus-black-910-006162/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Razer Cynosa V2 USB (RZ03-03400700-R3R1)      </name>
+    <shop_name>Razer Cynosa V2 Chroma Membrane (RZ03-03400700-R3R1) Black </shop_name>
+    <price>1999</price>
+    <shop_url>https://telemart.ua/products/razer-cynosa-v2-chroma-membrane-rz03-03400700-r3r1-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=razer-cynosa-v2-chroma-membrane-rz03-03400700-r3r1-black&amp;utm_campaign=keyboards&amp;utm_content=303064</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/razer-cynosa-v2-usb-rz03-03400700-r3r1/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Razer Viper 8KHz (RZ01-03580100-R3M1)      </name>
+    <shop_name>Razer Viper 8KHz (RZ01-03580100-R3M1) Black </shop_name>
+    <price>2699</price>
+    <shop_url>https://telemart.ua/products/razer-viper-8khz-rz01-03580100-r3m1-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=razer-viper-8khz-rz01-03580100-r3m1-black&amp;utm_campaign=mouse&amp;utm_content=347658</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/razer-viper-8khz-rz01-03580100-r3m1/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>A4Tech KV-300H      </name>
+    <shop_name>A4Tech KV-300H X-Key USB Black </shop_name>
+    <price>1279</price>
+    <shop_url>https://telemart.ua/products/a4tech-kv-300h-x-key-usb-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=a4tech-kv-300h-x-key-usb-black&amp;utm_campaign=keyboards&amp;utm_content=13158</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/a4tech_kv-300h/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Logitech G213 Prodigy RGB Gaming Keyboard UKR (920-010740)      </name>
+    <shop_name>Logitech G213 Prodigy Gaming Keyboard USB UKR (920-010740) Black </shop_name>
+    <price>1699</price>
+    <shop_url>https://telemart.ua/products/logitech-g213-prodigy-gaming-keyboard-usb-ukr-920-010740-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=logitech-g213-prodigy-gaming-keyboard-usb-ukr-920-010740-black&amp;utm_campaign=keyboards&amp;utm_content=397895</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/logitech-g213-prodigy-rgb-gaming-keyboard-ukr-920-010740/</url>
+  </offer>
+  <offer>
+    <categoryId>2</categoryId>
+    <currencyId>UAH</currencyId>
+    <name>Logitech M280 Wireless Mouse Black (910-004291, 910-004287)      </name>
+    <shop_name>Logitech Wireless Mouse M280 Black </shop_name>
+    <price>839</price>
+    <shop_url>https://telemart.ua/products/logitech-wireless-mouse-m280-910-004291-black/?utm_source=hotline&amp;utm_medium=marketplaces&amp;utm_term=logitech-wireless-mouse-m280-910-004291-black&amp;utm_campaign=mouse&amp;utm_content=34016</shop_url>
+    <url>https://hotline.ua/ua/computer-myshi-klaviatury/logitech-wireless-mouse-m280-black-910-004291/</url>
+  </offer>
     <offer>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
